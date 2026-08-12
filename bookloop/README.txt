@@ -1,0 +1,1 @@
+BookLoop Professional Front-End. Extract ZIP and open index.html in Chrome/Edge. Pages: landing, shop, login, register, cart, dashboard. Demo auth/cart use localStorage; backend can be connected later.
